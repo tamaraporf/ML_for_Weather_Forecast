@@ -24,7 +24,7 @@ As etapas principais envolvidas nesta tarefa foram:
 
 ## Resultados
 
-Para os modelos de regres foi:
+Para os modelos de regressão foi:
 - A precisão média para Next_Tmax é: 80,43%
 - A precisão média para Next_Tmin é: 86,29%
 
