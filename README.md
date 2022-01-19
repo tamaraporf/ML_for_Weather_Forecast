@@ -25,9 +25,9 @@ As etapas principais envolvidas nesta tarefa foram:
 ## Resultados
 
 Para os modelos de regressão foi:
-- A precisão média para Next_Tmax é: 80,43%
-- A precisão média para Next_Tmin é: 86,29%
+- A acurácia média para Next_Tmax é: 80,43%
+- A acurácia média para Next_Tmin é: 86,29%
 
 Para os modelos de classificação foi:
-- A precisão média para Next_Tmax é: 97%
-- A precisão média para Next_Tmin é: 85%
+- A precisão média para Next_Tmax é: 74.22%
+- A precisão média para Next_Tmin é: 80.42%
